@@ -4,7 +4,6 @@ import { Table, Select, Input, Button } from "antd";
 const { Option } = Select;
 
 const App = () => {
-  // Données initiales des personnes et des éléments du dropdown
   const initialPersons = [
     { name: "Personne 1" },
     { name: "Personne 2" },
